@@ -1,4 +1,9 @@
+body {
+	background-color:#1c375b;
+}
+
 h1 {
-	font-family: sans-serif;
-	color: #cd4236
+	font-family:georgia, serif;
+	color:#cd4236;
+	font-size:18px;
 }
