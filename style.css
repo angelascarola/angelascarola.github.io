@@ -2,6 +2,12 @@
 body {
 	background-color:#1c375b;
 	background-image:url('images/background.jpg');
+	img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 }
 
 h1 {
