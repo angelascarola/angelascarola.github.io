@@ -1,5 +1,9 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color:#1c375b;
+	background-image:url('images/background.jpg');
+	background-attachment:fixed;
+	background-size:cover;
 }
 
 h1 {
