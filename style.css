@@ -2,13 +2,16 @@
 body {
 	background-color:#1c375b;
 	background-image:url('images/background.jpg');
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat: no-repeat;
 }
 
 }
 
 h1 {
-	font-family: arial, helvetica, sans-serif;
-	color: #cd4236;
+	font-family:arial, helvetica, sans-serif;
+	color:#cd4236;
 	font-size: 80px;
 	text-align: center;
 }
