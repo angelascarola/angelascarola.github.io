@@ -10,10 +10,10 @@ body {
 }
 
 h1 {
+	font-family: arial, sans-serif;
 	font-size:80px;
 	text-align: center;
 	color:#9fd6c2;
-	font-family: arial, sans-serif;
 	
 }
 
