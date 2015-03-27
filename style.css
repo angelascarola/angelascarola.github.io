@@ -10,13 +10,12 @@ h1 {
 	font-size:5em;
 	text-align: center;
 }
-h2 {
-	font-family: 'Neuton', serif;
-}
+
 a {
 	color:#9fd6c2;
 }
 #slogan {
 	font-size:1.25em;
 	text-align: center;
+	font-family: 'Neuton', serif;
 }
