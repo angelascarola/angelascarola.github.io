@@ -1,5 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
+	background-image:url('images/background.jpg');
 	background-color:#1c375b;
 	color:#9fd6c2;
 	font-family: arial, sans-serif;
