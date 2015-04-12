@@ -17,6 +17,7 @@ h1 {
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
 	font-size: 1.5em;
+	color: #990000;
 }
 h2 {
 	text-align: center;
@@ -64,6 +65,5 @@ li {
 
 #social {
 		width: 60px;
-		color: #990000;
 
 }
