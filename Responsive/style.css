@@ -10,8 +10,7 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	font-size:4em;
 	text-align: left;
-	color: #545454;
-
+	color:#545454;
 }
 
 a {
@@ -20,9 +19,9 @@ a {
 }
 
 #work{
-	background: #ffffff;
+	background:#ffffff;
 	border-top: .5em solid white;
-	color: #545454;
+	color:#545454;
 	position:relative;
 
 }
