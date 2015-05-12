@@ -17,6 +17,13 @@ a {
 	text-decoration: none;
 }
 
+#work{
+	background: #bdc3c7;
+	border-top: .5em solid white;
+	color: #4d4d4d;
+	position:relative;
+}
+
 #slogan {
 	font-size:1.25em;
 	text-align: center;
