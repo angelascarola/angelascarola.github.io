@@ -7,8 +7,19 @@ body {
 	margin: 0em 0em 1.5em 0em;
 }
 
+h1{
+	clear: both;
+	display: inline-block;
+	font:normal normal bold 8em/normal 'Oswald', sans-serif;
+	letter-spacing: .05em;
+	margin-bottom: .5em;
+	padding-bottom: .02em;
+	text-align: center;
+	padding-right: 5%;
 
-h1,h2{
+}
+
+h2{
 	clear: both;
 	display: inline-block;
 	font:normal normal bold 4em/normal 'Oswald', sans-serif;
