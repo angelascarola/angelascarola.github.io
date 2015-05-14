@@ -15,7 +15,7 @@ h1,h2{
 	letter-spacing: .05em;
 	margin-bottom: .5em;
 	padding-bottom: .02em;
-	text-align: left;
+	text-align: center;
 	}
 
 
@@ -39,11 +39,6 @@ h1,h2{
 	margin-top: 3%;
 }
 
-#slogan {
-	font-size:1.25em;
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-}
 
 #in-touch{
 		width: 100%;
