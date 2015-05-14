@@ -4,7 +4,7 @@ body {
 	color:#9fd6c2;
 	font-family: arial, sans-serif;
 	font-size:16px;
-	margin: 0em 0em .5em 0em;
+	margin: 0em 0em 1.5em 0em;
 }
 
 
@@ -25,7 +25,6 @@ h1,h2{
 	border-top: .5em solid white;
 	color:#9fd6c2;
 	position:relative;
-	padding-right: 5%;
 
 }
 
