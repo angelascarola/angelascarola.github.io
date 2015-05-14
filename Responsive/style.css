@@ -21,12 +21,19 @@ a {
 }
 
 #work{
-	background:#ffffff;
-	border-top: .5em solid white;
-	color:#9fd6c2;
-	position:relative;
+	 width : 300px;
+     height : 100px;
+     border : solid 2px #0f0f0f;
+     }
 
-}
+#work img {
+        width : 80px;
+        height : 80px;
+        margin:0 auto;
+        display:block;
+        background:red;
+    }​
+
 
 #slogan {
 	font-size:1.25em;
