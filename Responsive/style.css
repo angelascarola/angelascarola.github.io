@@ -7,20 +7,27 @@ body {
 	margin: 0em 0em 1.5em 0em;
 }
 
+title{
+	clear: both;
+	display: inline-block;
+	font:normal normal bold 6em/normal 'Oswald', sans-serif;
+	letter-spacing: .05em;
+	margin-bottom: .5em;
+	padding-bottom: .02em;
+	text-align: left;
+}
+
+
 h1,h2{
 	clear: both;
 	display: inline-block;
-	font:normal normal bold 4em/normal 'Oswald', sans-serif;
+	font:normal normal bold 2em/normal 'Oswald', sans-serif;
 	letter-spacing: .05em;
 	margin-bottom: .5em;
 	padding-bottom: .02em;
 	text-align: left;
 	}
 
-a {
-	color:#1e1933;
-	text-decoration: none;
-}
 
 #work{
 	background:#ffffff;
