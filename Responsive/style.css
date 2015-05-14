@@ -52,9 +52,13 @@ a {
 		width: 100%;
 	}
 
-	#images{
+#images{
 	padding-bottom: 3%;
 	height: 100;
+}
+
+#social-bottom{
+	display: inline;
 }
 
 }
