@@ -82,7 +82,7 @@ h2{
 .project img{
 	display:block;
 	margin-top: 2em;
-	width: 100%;
+	width: 50%;
 	transition: width 0.3s ease;
 }
 
