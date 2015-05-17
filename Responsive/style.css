@@ -79,4 +79,11 @@ h2{
 	width: 10%;
 }
 
+.project img{
+	display:block;
+	margin-top: 2em;
+	width: 100%;
+	transition: width 0.3s ease;
+}
+
 }
