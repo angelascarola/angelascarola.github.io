@@ -37,6 +37,10 @@ h2{
 	font-size: 1.5em;
 }
 
+	a:hover {
+  text-decoration:underline;
+}
+
 
 #work{
 	background:#ffffff;
