@@ -4,8 +4,7 @@ body {
 	color:#9fd6c2;
 	font-family: arial, sans-serif;
 	font-size:16px;
-	margin: 3em 0 2em 0;
-	padding: 1em 0 1em 0;
+	margin: 0em 0em 1.5em 0em;
 }
 
 h1{
@@ -13,8 +12,10 @@ h1{
 	display: inline-block;
 	font:normal normal bold 7em/normal 'Oswald', sans-serif;
 	letter-spacing: .05em;
-	margin: 3em 0 2em 0;
-	padding: 1em 0 1em 0;
+	margin-bottom: .5em;
+	padding-bottom: .02em;
+	text-align: center;
+	padding-right: 5%;
 
 }
 
@@ -23,9 +24,11 @@ h2{
 	display: inline-block;
 	font:normal normal bold 4em/normal 'Oswald', sans-serif;
 	letter-spacing: .05em;
-	margin: 3em 0 2em 0;
-	padding: 1em 0 1em 0;
-}
+	margin-bottom: .5em;
+	padding-bottom: .02em;
+	text-align: center;
+	padding-right: 5%;
+	}
 
 	a {
 	color:#1e1933;
@@ -34,7 +37,7 @@ h2{
 	font-size: 1.5em;
 }
 
-	a:hover {
+a:hover {
   text-decoration:underline;
 }
 
