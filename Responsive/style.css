@@ -80,12 +80,9 @@ a:hover {
 }
 
 
-.social-icon img{
-	height: 3em;
-	margin: 3%;
-}
 .social-icon{
 	display: inline-block;
+	width: 10%;
 }
 
 .project img{
